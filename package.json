@@ -1,0 +1,26 @@
+{
+  "name": "elevators",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "winston": "^2.3.1"
+  },
+  "description": "h1 Elevators App (BackEnd)",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denis-yevduschenko/ElevatorsApp.git"
+  },
+  "author": "Denys Yevdushchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denis-yevduschenko/ElevatorsApp/issues"
+  },
+  "homepage": "https://github.com/denis-yevduschenko/ElevatorsApp#readme"
+}
