@@ -20,24 +20,24 @@ describe("BaseLift", function() {
 
     it("should be add to array of tasks", function() {
         lift.addTask(user);
-        expect(user).toBe(lift.tasks[0]);
+        expect(lift.tasks[0]).toBe(user);
     });
 
     it("'s variable stoped should be true after 1 use func stop()", function() {
         lift.stop();
-        expect(true).toBe(lift.stoped);
+        expect(lift.stoped).toBeTruthy();
     });
 
     it("'s variable stoped should be false after 2 use func stop()", function() {
         lift.stop();
         lift.stop();
-        expect(false).toBe(lift.stoped);
+        expect(lift.stoped).toBeFalsy();
     });
 
     it(".currentFloor should be equal", function() {
         lift.changeFloor();
         lift.changeFloor();
-        expect(3).toBe(lift.currentFloor);
+        expect(lift.currentFloor).toBe(3);
     });
 
     it("'s variable stoped should be false after 2 use func stop()", function() {
@@ -45,7 +45,7 @@ describe("BaseLift", function() {
         lift.changeFloor();
         lift.direction = "Down";
         lift.changeFloor();
-        expect(2).toBe(lift.currentFloor);
+        expect(lift.currentFloor).toBe(2);
     });
 });
 

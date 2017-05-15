@@ -21,7 +21,7 @@ describe("MainLift", function() {
     });
 
     it("should be add to array of tasks", function() {
-        expect(user).toBe(lift.tasks[0]);
+        expect(lift.tasks[0]).toBe(user);
     });
 
     it("'s variable stoped should be true after 1 use func stop()", function() {
@@ -42,12 +42,12 @@ describe("MainLift", function() {
 
     it("'s test-user should be equal", function() {
         lift.checkUser();
-        expect(4).toBe(lift.targetFloor);
+        expect(lift.targetFloor).toBe(4);
     });
 
     it("'s test-user shouldn't be equal", function() {
         lift.checkUser();
-        expect(3).not.toBe(lift.targetFloor);
+        expect(lift.targetFloor).not.toBe(3);
     });
 
     it(".currentFloor should be equal", function() {
@@ -55,7 +55,7 @@ describe("MainLift", function() {
         lift.checkDirection();
         lift.changeFloor();
         lift.changeFloor();
-        expect(3).toBe(lift.currentFloor);
+        expect(lift.currentFloor).toBe(3);
     });
 
     it("' user should left lift", function() {
@@ -83,7 +83,7 @@ describe("MainLift", function() {
     it(" should be equal", function() {
         lift.takeNewCourse();
 
-        expect(1).toBe(lift.targetFloor);
+        expect(lift.targetFloor).toBe(1);
     });
 });
 

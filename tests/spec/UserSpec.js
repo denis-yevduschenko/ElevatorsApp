@@ -15,35 +15,35 @@ describe("User", function() {
     });
 
     it("currentFloor should be equals", function() {
-        expect(1).toBe(user.startFloor);
+        expect(user.startFloor).toBe(1);
     });
 
     it("currentFloor shouldn't be equals", function() {
-        expect(3).not.toBe(user.startFloor);
+        expect(user.startFloor).not.toBe(3);
     });
 
     it("targetFloor should be equals", function() {
-        expect(4).toBe(user.targetFloor);
+        expect(user.targetFloor).toBe(4);
     });
 
     it("targetFloor shouldn't be equals", function() {
-        expect(3).not.toBe(user.targetFloor);
+        expect(user.targetFloor).not.toBe(3);
     });
 
     it("Name should be equals", function() {
-        expect('user-test').toBe(user.getName());
+        expect(user.getName()).toBe('user-test');
     });
 
     it("should be equals", function() {
-        expect('user').not.toBe(user.getName());
+        expect(user.getName()).not.toBe('user');
     });
 
     it("Direction should be 'Up'", function() {
-        expect('Up').toBe(user.direction);
+        expect(user.direction).toBe('Up');
     });
 
     it("Direction should be 'Down'", function() {
         user = new User('user-go-down', 3, 2);
-        expect('Down').toBe(user.direction);
+        expect(user.direction).toBe('Down');
     });
 });

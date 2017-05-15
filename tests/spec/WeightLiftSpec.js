@@ -21,7 +21,7 @@ describe("WeightLift", function() {
     });
 
     it("should be add to array of tasks", function() {
-        expect(user).toBe(lift.tasks[0]);
+        expect(lift.tasks[0]).toBe(user);
     });
 
     it("'s variable stoped should be true after 1 use func stop()", function() {

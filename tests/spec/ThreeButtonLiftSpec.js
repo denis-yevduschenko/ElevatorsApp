@@ -21,7 +21,7 @@ describe("ThreeButtonLift", function() {
     });
 
     it("should be add to array of tasks", function() {
-        expect(user).toBe(lift.tasks[0]);
+        expect(lift.tasks[0]).toBe(user);
     });
 
     it("'s variable stoped should be true after 1 use func stop()", function() {
@@ -42,12 +42,12 @@ describe("ThreeButtonLift", function() {
 
     it("'s test-user should be equal", function() {
         lift.checkUser();
-        expect(4).toBe(lift.targetFloor);
+        expect(lift.targetFloor).toBe(4);
     });
 
     it("'s test-user shouldn't be equal", function() {
         lift.checkUser();
-        expect(3).not.toBe(lift.targetFloor);
+        expect(lift.targetFloor).not.toBe(3);
     });
 
     it(".currentFloor should be equal", function() {
@@ -55,7 +55,7 @@ describe("ThreeButtonLift", function() {
         lift.checkDirection();
         lift.changeFloor();
         lift.changeFloor();
-        expect(3).toBe(lift.currentFloor);
+        expect(lift.currentFloor).toBe(3);
     });
 
     it("should be equal", function() {
@@ -63,14 +63,14 @@ describe("ThreeButtonLift", function() {
         lift.currentFloor = 3;
         lift.upOrDown(user);
 
-        expect(1).toBe(lift.targetFloor);
+        expect(lift.targetFloor).toBe(1);
     });
 
     it("should move to last floor", function() {
         lift.upOrDown(user);
         lift.checkDirection();
 
-        expect("last").toBe(lift.direction);
+        expect(lift.direction).toBe("last");
     });
 
     it("' user should left lift", function() {

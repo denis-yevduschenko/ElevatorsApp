@@ -42,12 +42,12 @@ describe("BetterMainLift", function() {
 
     it("'s test-user should be equal", function() {
         lift.checkUser();
-        expect(1).toBe(lift.targetFloor);
+        expect(lift.targetFloor).toBe(1);
     });
 
     it("'s test-user shouldn't be equal", function() {
         lift.checkUser();
-        expect(3).not.toBe(lift.targetFloor);
+        expect(lift.targetFloor).not.toBe(3);
     });
 
     it(".currentFloor should be equal", function() {
@@ -55,7 +55,7 @@ describe("BetterMainLift", function() {
         lift.checkDirection();
         lift.changeFloor();
         lift.changeFloor();
-        expect(3).toBe(lift.currentFloor);
+        expect(lift.currentFloor).toBe(3);
     });
 
     it("' user should left lift", function() {
@@ -89,6 +89,6 @@ describe("BetterMainLift", function() {
         lift.addTask(user4);
         lift.improveLift(lift.tasks);
 
-        expect(4).toBe(lift.highPoint);
+        expect(lift.highPoint).toBe(4);
     });
 });

@@ -21,7 +21,7 @@ describe("OneCallButtonLift", function() {
     });
 
     it("should be add to array of tasks", function() {
-        expect(user).toBe(lift.tasks[0]);
+
     });
 
     it("'s variable stoped should be true after 1 use func stop()", function() {
@@ -36,12 +36,12 @@ describe("OneCallButtonLift", function() {
 
     it("'s test-user should be equal", function() {
         lift.checkUser();
-        expect(4).toBe(lift.targetFloor);
+        expect(lift.targetFloor).toBe(4);
     });
 
     it("'s test-user shouldn't be equal", function() {
         lift.checkUser();
-        expect(3).not.toBe(lift.targetFloor);
+        expect(lift.targetFloor).not.toBe(3);
     });
 
     it(".currentFloor should be equal", function() {
@@ -49,7 +49,7 @@ describe("OneCallButtonLift", function() {
         lift.checkDirection();
         lift.changeFloor();
         lift.changeFloor();
-        expect(3).toBe(lift.currentFloor);
+        expect(lift.currentFloor).toBe(3);
     });
 
     it("' user should left lift", function() {
