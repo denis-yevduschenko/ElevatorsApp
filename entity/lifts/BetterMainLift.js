@@ -33,7 +33,7 @@ function BetterMainLift() {
                     _this.moveToPoint();
 
                     if(_this.finish()){
-                        log.info("Success! All tasks is done.");
+                        log.info("Success! All tasks are done.");
                         clearInterval(timerId);
                         return;
                     }
@@ -104,8 +104,8 @@ function BetterMainLift() {
 
     this.enterToLift = function(User) {
         if (User === null){
-            log.error("Function parameter was zero");
-            throw "Function parameter was zero";
+            log.error("Function parameter was null");
+            throw "Function parameter was null";
         }
         User.isInsideLift = true;
         log.info(User.name + " entered into lift. His direction: " + User.direction);
@@ -113,8 +113,8 @@ function BetterMainLift() {
 
     this.leftFromLift = function(User) {
         if (User === null){
-            log.error("Function parameter was zero");
-            throw "Function parameter was zero";
+            log.error("Function parameter was null");
+            throw "Function parameter was null";
         }
         User.isInsideLift = false;
         User.isDone = true;
@@ -162,6 +162,7 @@ function BetterMainLift() {
         });
         this.endPoint = DownUsers[0].targetFloor;
 
+        //find the highest floor which we need to go
         if(this.tempHighPoint > this.tempHighPoint2){
             this.highPoint = this.tempHighPoint;
         } else {
@@ -170,6 +171,10 @@ function BetterMainLift() {
         log.info("Start point: " + this.startPoint);
         log.info("The highest point: " + this.highPoint);
         log.info("End point: " + this.endPoint);
+
+        if (this.startPoint == 1) {
+            this.controlPoint1 = true;
+        }
     }
 }
 

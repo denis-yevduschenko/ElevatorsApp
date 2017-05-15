@@ -1921,3 +1921,583 @@
 {"level":"info","message":"Floor: 12","timestamp":"2017-05-04T07:19:58.161Z"}
 {"level":"info","message":"Time: 43537","timestamp":"2017-05-04T07:19:58.162Z"}
 {"level":"info","message":"Time: 44539","timestamp":"2017-05-04T07:19:59.164Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:45:53.221Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:45:53.227Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:45:53.228Z"}
+{"level":"info","message":"Start point: 3","timestamp":"2017-05-15T06:45:53.236Z"}
+{"level":"info","message":"The highest point: 4","timestamp":"2017-05-15T06:45:53.238Z"}
+{"level":"info","message":"End point: 1","timestamp":"2017-05-15T06:45:53.239Z"}
+{"level":"info","message":"Lift moves to 3 floor.","timestamp":"2017-05-15T06:45:53.240Z"}
+{"level":"info","message":"Floor: 1","timestamp":"2017-05-15T06:45:53.240Z"}
+{"level":"info","message":"Time: 441","timestamp":"2017-05-15T06:45:54.244Z"}
+{"level":"info","message":"Time: 1444","timestamp":"2017-05-15T06:45:55.246Z"}
+{"level":"info","message":"Time: 2446","timestamp":"2017-05-15T06:45:56.247Z"}
+{"level":"info","message":"Floor: 2","timestamp":"2017-05-15T06:45:57.249Z"}
+{"level":"info","message":"Time: 3447","timestamp":"2017-05-15T06:45:57.249Z"}
+{"level":"info","message":"Time: 4449","timestamp":"2017-05-15T06:45:58.250Z"}
+{"level":"info","message":"Time: 5450","timestamp":"2017-05-15T06:45:59.251Z"}
+{"level":"info","message":"Time: 6451","timestamp":"2017-05-15T06:46:00.252Z"}
+{"level":"info","message":"Floor: 3","timestamp":"2017-05-15T06:46:01.253Z"}
+{"level":"info","message":"User-1 entered into lift. His direction: Up","timestamp":"2017-05-15T06:46:01.255Z"}
+{"level":"info","message":"Lift moves to 4 floor.","timestamp":"2017-05-15T06:46:01.255Z"}
+{"level":"info","message":"Time: 7452","timestamp":"2017-05-15T06:46:01.256Z"}
+{"level":"info","message":"Time: 8456","timestamp":"2017-05-15T06:46:02.257Z"}
+{"level":"info","message":"Time: 9457","timestamp":"2017-05-15T06:46:03.258Z"}
+{"level":"info","message":"Time: 10458","timestamp":"2017-05-15T06:46:04.259Z"}
+{"level":"info","message":"Floor: 4","timestamp":"2017-05-15T06:46:05.260Z"}
+{"level":"info","message":"User-1 left from lift.","timestamp":"2017-05-15T06:46:05.262Z"}
+{"level":"info","message":"User-3 entered into lift. His direction: Down","timestamp":"2017-05-15T06:46:05.262Z"}
+{"level":"info","message":"Lift moves to 1 floor.","timestamp":"2017-05-15T06:46:05.263Z"}
+{"level":"info","message":"Time: 11459","timestamp":"2017-05-15T06:46:05.263Z"}
+{"level":"info","message":"Time: 12463","timestamp":"2017-05-15T06:46:06.264Z"}
+{"level":"info","message":"Time: 13464","timestamp":"2017-05-15T06:46:07.265Z"}
+{"level":"info","message":"Time: 14465","timestamp":"2017-05-15T06:46:08.266Z"}
+{"level":"info","message":"Floor: 3","timestamp":"2017-05-15T06:46:09.267Z"}
+{"level":"info","message":"User-2 entered into lift. His direction: Down","timestamp":"2017-05-15T06:46:09.269Z"}
+{"level":"info","message":"Time: 15466","timestamp":"2017-05-15T06:46:09.270Z"}
+{"level":"info","message":"Time: 16470","timestamp":"2017-05-15T06:46:10.272Z"}
+{"level":"info","message":"Time: 17472","timestamp":"2017-05-15T06:46:11.274Z"}
+{"level":"info","message":"Time: 18473","timestamp":"2017-05-15T06:46:12.275Z"}
+{"level":"info","message":"Floor: 2","timestamp":"2017-05-15T06:46:13.276Z"}
+{"level":"info","message":"User-2 left from lift.","timestamp":"2017-05-15T06:46:13.277Z"}
+{"level":"info","message":"Time: 19474","timestamp":"2017-05-15T06:46:13.278Z"}
+{"level":"info","message":"Time: 20477","timestamp":"2017-05-15T06:46:14.279Z"}
+{"level":"info","message":"Time: 21479","timestamp":"2017-05-15T06:46:15.282Z"}
+{"level":"info","message":"Time: 22481","timestamp":"2017-05-15T06:46:16.284Z"}
+{"level":"info","message":"Floor: 1","timestamp":"2017-05-15T06:46:17.284Z"}
+{"level":"info","message":"User-3 left from lift.","timestamp":"2017-05-15T06:46:17.285Z"}
+{"level":"info","message":"This is the end of path!","timestamp":"2017-05-15T06:46:17.286Z"}
+{"level":"info","message":"Success! All tasks is done.","timestamp":"2017-05-15T06:46:17.286Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.787Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.793Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.794Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.794Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.794Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.794Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.794Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.794Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.794Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.794Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.794Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.795Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.795Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.795Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.795Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.795Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.795Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.795Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.795Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:46:22.795Z"}
+{"level":"info","message":"Start point: 1","timestamp":"2017-05-15T06:46:22.804Z"}
+{"level":"info","message":"The highest point: 10","timestamp":"2017-05-15T06:46:22.806Z"}
+{"level":"info","message":"End point: 2","timestamp":"2017-05-15T06:46:22.806Z"}
+{"level":"info","message":"User-10 entered into lift. His direction: Up","timestamp":"2017-05-15T06:46:22.808Z"}
+{"level":"info","message":"User-14 entered into lift. His direction: Up","timestamp":"2017-05-15T06:46:22.808Z"}
+{"level":"info","message":"User-15 entered into lift. His direction: Up","timestamp":"2017-05-15T06:46:22.809Z"}
+{"level":"info","message":"Lift moves to 1 floor.","timestamp":"2017-05-15T06:46:22.810Z"}
+{"level":"info","message":"Floor: 1","timestamp":"2017-05-15T06:46:22.811Z"}
+{"level":"info","message":"Time: 435","timestamp":"2017-05-15T06:46:23.814Z"}
+{"level":"info","message":"Time: 1437","timestamp":"2017-05-15T06:46:24.815Z"}
+{"level":"info","message":"Time: 2438","timestamp":"2017-05-15T06:46:25.815Z"}
+{"level":"info","message":"Floor: 2","timestamp":"2017-05-15T06:46:26.817Z"}
+{"level":"info","message":"User-1 entered into lift. His direction: Up","timestamp":"2017-05-15T06:46:26.817Z"}
+{"level":"info","message":"User-15 left from lift.","timestamp":"2017-05-15T06:46:26.818Z"}
+{"level":"info","message":"User-19 entered into lift. His direction: Up","timestamp":"2017-05-15T06:46:26.819Z"}
+{"level":"info","message":"Time: 3439","timestamp":"2017-05-15T06:46:26.820Z"}
+{"level":"info","message":"Time: 4443","timestamp":"2017-05-15T06:46:27.820Z"}
+{"level":"info","message":"Time: 5444","timestamp":"2017-05-15T06:46:28.821Z"}
+{"level":"info","message":"Time: 6445","timestamp":"2017-05-15T06:46:29.823Z"}
+{"level":"info","message":"Floor: 3","timestamp":"2017-05-15T06:46:30.823Z"}
+{"level":"info","message":"User-6 entered into lift. His direction: Up","timestamp":"2017-05-15T06:46:30.824Z"}
+{"level":"info","message":"User-9 entered into lift. His direction: Up","timestamp":"2017-05-15T06:46:30.825Z"}
+{"level":"info","message":"Time: 7446","timestamp":"2017-05-15T06:46:30.826Z"}
+{"level":"info","message":"Time: 8449","timestamp":"2017-05-15T06:46:31.826Z"}
+{"level":"info","message":"Time: 9450","timestamp":"2017-05-15T06:46:32.827Z"}
+{"level":"info","message":"Time: 10451","timestamp":"2017-05-15T06:46:33.828Z"}
+{"level":"info","message":"Floor: 4","timestamp":"2017-05-15T06:46:34.829Z"}
+{"level":"info","message":"User-19 left from lift.","timestamp":"2017-05-15T06:46:34.830Z"}
+{"level":"info","message":"Time: 11452","timestamp":"2017-05-15T06:46:34.831Z"}
+{"level":"info","message":"Time: 12454","timestamp":"2017-05-15T06:46:35.831Z"}
+{"level":"info","message":"Time: 13455","timestamp":"2017-05-15T06:46:36.832Z"}
+{"level":"info","message":"Time: 14456","timestamp":"2017-05-15T06:46:37.833Z"}
+{"level":"info","message":"Floor: 5","timestamp":"2017-05-15T06:46:38.834Z"}
+{"level":"info","message":"User-1 left from lift.","timestamp":"2017-05-15T06:46:38.835Z"}
+{"level":"info","message":"Time: 15457","timestamp":"2017-05-15T06:46:38.836Z"}
+{"level":"info","message":"Time: 16459","timestamp":"2017-05-15T06:46:39.836Z"}
+{"level":"info","message":"Time: 17460","timestamp":"2017-05-15T06:46:40.838Z"}
+{"level":"info","message":"Time: 18461","timestamp":"2017-05-15T06:46:41.840Z"}
+{"level":"info","message":"Floor: 6","timestamp":"2017-05-15T06:46:42.841Z"}
+{"level":"info","message":"Time: 19462","timestamp":"2017-05-15T06:46:42.841Z"}
+{"level":"info","message":"Time: 20464","timestamp":"2017-05-15T06:46:43.843Z"}
+{"level":"info","message":"Time: 21465","timestamp":"2017-05-15T06:46:44.843Z"}
+{"level":"info","message":"Time: 22466","timestamp":"2017-05-15T06:46:45.845Z"}
+{"level":"info","message":"Floor: 7","timestamp":"2017-05-15T06:46:46.845Z"}
+{"level":"info","message":"User-9 left from lift.","timestamp":"2017-05-15T06:46:46.846Z"}
+{"level":"info","message":"User-10 left from lift.","timestamp":"2017-05-15T06:46:46.848Z"}
+{"level":"info","message":"Time: 23467","timestamp":"2017-05-15T06:46:46.850Z"}
+{"level":"info","message":"Time: 24473","timestamp":"2017-05-15T06:46:47.851Z"}
+{"level":"info","message":"Time: 25474","timestamp":"2017-05-15T06:46:48.852Z"}
+{"level":"info","message":"Time: 26475","timestamp":"2017-05-15T06:46:49.854Z"}
+{"level":"info","message":"Floor: 8","timestamp":"2017-05-15T06:46:50.856Z"}
+{"level":"info","message":"User-6 left from lift.","timestamp":"2017-05-15T06:46:50.856Z"}
+{"level":"info","message":"Time: 27477","timestamp":"2017-05-15T06:46:50.857Z"}
+{"level":"info","message":"Time: 28479","timestamp":"2017-05-15T06:46:51.858Z"}
+{"level":"info","message":"Time: 29481","timestamp":"2017-05-15T06:46:52.859Z"}
+{"level":"info","message":"Time: 30482","timestamp":"2017-05-15T06:46:53.861Z"}
+{"level":"info","message":"Floor: 9","timestamp":"2017-05-15T06:46:54.863Z"}
+{"level":"info","message":"User-14 left from lift.","timestamp":"2017-05-15T06:46:54.864Z"}
+{"level":"info","message":"Time: 31484","timestamp":"2017-05-15T06:46:54.864Z"}
+{"level":"info","message":"Time: 32487","timestamp":"2017-05-15T06:46:55.867Z"}
+{"level":"info","message":"Time: 33490","timestamp":"2017-05-15T06:46:56.869Z"}
+{"level":"info","message":"Time: 34492","timestamp":"2017-05-15T06:46:57.872Z"}
+{"level":"info","message":"Floor: 10","timestamp":"2017-05-15T06:46:58.872Z"}
+{"level":"info","message":"User-2 entered into lift. His direction: Down","timestamp":"2017-05-15T06:46:58.873Z"}
+{"level":"info","message":"Time: 35493","timestamp":"2017-05-15T06:46:58.874Z"}
+{"level":"info","message":"Time: 36495","timestamp":"2017-05-15T06:46:59.875Z"}
+{"level":"info","message":"Time: 37496","timestamp":"2017-05-15T06:47:00.875Z"}
+{"level":"info","message":"Time: 38505","timestamp":"2017-05-15T06:47:01.884Z"}
+{"level":"info","message":"Floor: 11","timestamp":"2017-05-15T06:47:02.885Z"}
+{"level":"info","message":"Time: 39506","timestamp":"2017-05-15T06:47:02.886Z"}
+{"level":"info","message":"Time: 40508","timestamp":"2017-05-15T06:47:03.887Z"}
+{"level":"info","message":"Time: 41509","timestamp":"2017-05-15T06:47:04.888Z"}
+{"level":"info","message":"Time: 42510","timestamp":"2017-05-15T06:47:05.889Z"}
+{"level":"info","message":"Floor: 12","timestamp":"2017-05-15T06:47:06.890Z"}
+{"level":"info","message":"Time: 43511","timestamp":"2017-05-15T06:47:06.891Z"}
+{"level":"info","message":"Time: 44513","timestamp":"2017-05-15T06:47:07.893Z"}
+{"level":"info","message":"Time: 45515","timestamp":"2017-05-15T06:47:08.895Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:57:47.877Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:57:47.883Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T06:57:47.884Z"}
+{"level":"info","message":"User-1 entered into lift. His direction: Up","timestamp":"2017-05-15T06:57:47.889Z"}
+{"level":"info","message":"Lift moves to 4 floor.","timestamp":"2017-05-15T06:57:47.890Z"}
+{"level":"info","message":"Floor: 1","timestamp":"2017-05-15T06:57:47.891Z"}
+{"level":"info","message":"1748","timestamp":"2017-05-15T06:57:48.895Z"}
+{"level":"info","message":"2753","timestamp":"2017-05-15T06:57:49.897Z"}
+{"level":"info","message":"Someone pushed 'Stop' button","timestamp":"2017-05-15T06:57:50.898Z"}
+{"level":"info","message":"Waiting...","timestamp":"2017-05-15T06:57:50.898Z"}
+{"level":"info","message":"Waiting...","timestamp":"2017-05-15T06:57:51.899Z"}
+{"level":"info","message":"Waiting...","timestamp":"2017-05-15T06:57:52.900Z"}
+{"level":"info","message":"Waiting...","timestamp":"2017-05-15T06:57:53.901Z"}
+{"level":"info","message":"Someone pushed 'Stop' button","timestamp":"2017-05-15T06:57:54.902Z"}
+{"level":"info","message":"7758","timestamp":"2017-05-15T06:57:54.902Z"}
+{"level":"info","message":"Floor: 2","timestamp":"2017-05-15T06:57:55.903Z"}
+{"level":"info","message":"8759","timestamp":"2017-05-15T06:57:55.903Z"}
+{"level":"info","message":"9760","timestamp":"2017-05-15T06:57:56.904Z"}
+{"level":"info","message":"10761","timestamp":"2017-05-15T06:57:57.905Z"}
+{"level":"info","message":"11762","timestamp":"2017-05-15T06:57:58.905Z"}
+{"level":"info","message":"Floor: 3","timestamp":"2017-05-15T06:57:59.905Z"}
+{"level":"info","message":"12762","timestamp":"2017-05-15T06:57:59.905Z"}
+{"level":"info","message":"13763","timestamp":"2017-05-15T06:58:00.906Z"}
+{"level":"info","message":"14763","timestamp":"2017-05-15T06:58:01.906Z"}
+{"level":"info","message":"15763","timestamp":"2017-05-15T06:58:02.906Z"}
+{"level":"info","message":"Floor: 4","timestamp":"2017-05-15T06:58:03.907Z"}
+{"level":"info","message":"User-1 left from lift.","timestamp":"2017-05-15T06:58:03.907Z"}
+{"level":"info","message":"User-3 entered into lift. His direction: Down","timestamp":"2017-05-15T06:58:03.908Z"}
+{"level":"info","message":"Lift moves to 1 floor.","timestamp":"2017-05-15T06:58:03.908Z"}
+{"level":"info","message":"16763","timestamp":"2017-05-15T06:58:03.908Z"}
+{"level":"info","message":"17764","timestamp":"2017-05-15T06:58:04.908Z"}
+{"level":"info","message":"18765","timestamp":"2017-05-15T06:58:05.909Z"}
+{"level":"info","message":"19766","timestamp":"2017-05-15T06:58:06.911Z"}
+{"level":"info","message":"Floor: 3","timestamp":"2017-05-15T06:58:07.912Z"}
+{"level":"info","message":"User-2 entered into lift. His direction: Down","timestamp":"2017-05-15T06:58:07.912Z"}
+{"level":"info","message":"20768","timestamp":"2017-05-15T06:58:07.913Z"}
+{"level":"info","message":"21769","timestamp":"2017-05-15T06:58:08.913Z"}
+{"level":"info","message":"22770","timestamp":"2017-05-15T06:58:09.914Z"}
+{"level":"info","message":"23770","timestamp":"2017-05-15T06:58:10.914Z"}
+{"level":"info","message":"Floor: 2","timestamp":"2017-05-15T06:58:11.914Z"}
+{"level":"info","message":"User-2 left from lift.","timestamp":"2017-05-15T06:58:11.914Z"}
+{"level":"info","message":"24770","timestamp":"2017-05-15T06:58:11.915Z"}
+{"level":"info","message":"25771","timestamp":"2017-05-15T06:58:12.915Z"}
+{"level":"info","message":"26771","timestamp":"2017-05-15T06:58:13.915Z"}
+{"level":"info","message":"27771","timestamp":"2017-05-15T06:58:14.915Z"}
+{"level":"info","message":"Floor: 1","timestamp":"2017-05-15T06:58:15.915Z"}
+{"level":"info","message":"User-3 left from lift.","timestamp":"2017-05-15T06:58:15.915Z"}
+{"level":"info","message":"Success! All tasks is done.","timestamp":"2017-05-15T06:58:15.916Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.264Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.271Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.271Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.271Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.272Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.272Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.272Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.272Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.272Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.272Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.272Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.272Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.272Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.272Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.272Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.273Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.273Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.273Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.273Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:01:24.273Z"}
+{"level":"info","message":"Start point: 1","timestamp":"2017-05-15T07:01:24.281Z"}
+{"level":"info","message":"The highest point: 10","timestamp":"2017-05-15T07:01:24.284Z"}
+{"level":"info","message":"End point: 2","timestamp":"2017-05-15T07:01:24.284Z"}
+{"level":"info","message":"User-10 entered into lift. His direction: Up","timestamp":"2017-05-15T07:01:24.286Z"}
+{"level":"info","message":"User-14 entered into lift. His direction: Up","timestamp":"2017-05-15T07:01:24.287Z"}
+{"level":"info","message":"User-15 entered into lift. His direction: Up","timestamp":"2017-05-15T07:01:24.287Z"}
+{"level":"info","message":"Lift moves to 1 floor.","timestamp":"2017-05-15T07:01:24.288Z"}
+{"level":"info","message":"Floor: 1","timestamp":"2017-05-15T07:01:24.289Z"}
+{"level":"info","message":"Time: 452","timestamp":"2017-05-15T07:01:25.292Z"}
+{"level":"info","message":"Time: 1455","timestamp":"2017-05-15T07:01:26.294Z"}
+{"level":"info","message":"Time: 2457","timestamp":"2017-05-15T07:01:27.295Z"}
+{"level":"info","message":"Floor: 2","timestamp":"2017-05-15T07:01:28.297Z"}
+{"level":"info","message":"User-1 entered into lift. His direction: Up","timestamp":"2017-05-15T07:01:28.297Z"}
+{"level":"info","message":"User-15 left from lift.","timestamp":"2017-05-15T07:01:28.298Z"}
+{"level":"info","message":"User-19 entered into lift. His direction: Up","timestamp":"2017-05-15T07:01:28.299Z"}
+{"level":"info","message":"Time: 3459","timestamp":"2017-05-15T07:01:28.300Z"}
+{"level":"info","message":"Time: 4463","timestamp":"2017-05-15T07:01:29.300Z"}
+{"level":"info","message":"Time: 5464","timestamp":"2017-05-15T07:01:30.301Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.706Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.712Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.713Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.713Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.713Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.713Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.713Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.713Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.713Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.713Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.713Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.713Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.714Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.714Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.714Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.714Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.714Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.714Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.714Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:02:59.714Z"}
+{"level":"info","message":"Start point: 1","timestamp":"2017-05-15T07:02:59.723Z"}
+{"level":"info","message":"The highest point: 10","timestamp":"2017-05-15T07:02:59.725Z"}
+{"level":"info","message":"End point: 2","timestamp":"2017-05-15T07:02:59.726Z"}
+{"level":"info","message":"User-10 entered into lift. His direction: Up","timestamp":"2017-05-15T07:02:59.727Z"}
+{"level":"info","message":"User-14 entered into lift. His direction: Up","timestamp":"2017-05-15T07:02:59.727Z"}
+{"level":"info","message":"User-15 entered into lift. His direction: Up","timestamp":"2017-05-15T07:02:59.728Z"}
+{"level":"info","message":"Lift moves to 10 floor.","timestamp":"2017-05-15T07:02:59.729Z"}
+{"level":"info","message":"Floor: 1","timestamp":"2017-05-15T07:02:59.729Z"}
+{"level":"info","message":"Time: 452","timestamp":"2017-05-15T07:03:00.732Z"}
+{"level":"info","message":"Time: 1455","timestamp":"2017-05-15T07:03:01.734Z"}
+{"level":"info","message":"Time: 2456","timestamp":"2017-05-15T07:03:02.734Z"}
+{"level":"info","message":"Floor: 2","timestamp":"2017-05-15T07:03:03.736Z"}
+{"level":"info","message":"User-1 entered into lift. His direction: Up","timestamp":"2017-05-15T07:03:03.736Z"}
+{"level":"info","message":"User-15 left from lift.","timestamp":"2017-05-15T07:03:03.737Z"}
+{"level":"info","message":"User-19 entered into lift. His direction: Up","timestamp":"2017-05-15T07:03:03.738Z"}
+{"level":"info","message":"Time: 3457","timestamp":"2017-05-15T07:03:03.738Z"}
+{"level":"info","message":"Time: 4461","timestamp":"2017-05-15T07:03:04.739Z"}
+{"level":"info","message":"Time: 5462","timestamp":"2017-05-15T07:03:05.740Z"}
+{"level":"info","message":"Time: 6463","timestamp":"2017-05-15T07:03:06.741Z"}
+{"level":"info","message":"Floor: 3","timestamp":"2017-05-15T07:03:07.743Z"}
+{"level":"info","message":"User-6 entered into lift. His direction: Up","timestamp":"2017-05-15T07:03:07.744Z"}
+{"level":"info","message":"User-9 entered into lift. His direction: Up","timestamp":"2017-05-15T07:03:07.744Z"}
+{"level":"info","message":"Time: 7464","timestamp":"2017-05-15T07:03:07.745Z"}
+{"level":"info","message":"Time: 8468","timestamp":"2017-05-15T07:03:08.747Z"}
+{"level":"info","message":"Time: 9470","timestamp":"2017-05-15T07:03:09.748Z"}
+{"level":"info","message":"Time: 10471","timestamp":"2017-05-15T07:03:10.749Z"}
+{"level":"info","message":"Floor: 4","timestamp":"2017-05-15T07:03:11.751Z"}
+{"level":"info","message":"User-19 left from lift.","timestamp":"2017-05-15T07:03:11.752Z"}
+{"level":"info","message":"Time: 11472","timestamp":"2017-05-15T07:03:11.752Z"}
+{"level":"info","message":"Time: 12475","timestamp":"2017-05-15T07:03:12.753Z"}
+{"level":"info","message":"Time: 13476","timestamp":"2017-05-15T07:03:13.755Z"}
+{"level":"info","message":"Time: 14478","timestamp":"2017-05-15T07:03:14.756Z"}
+{"level":"info","message":"Floor: 5","timestamp":"2017-05-15T07:03:15.757Z"}
+{"level":"info","message":"User-1 left from lift.","timestamp":"2017-05-15T07:03:15.758Z"}
+{"level":"info","message":"Time: 15479","timestamp":"2017-05-15T07:03:15.758Z"}
+{"level":"info","message":"Time: 16481","timestamp":"2017-05-15T07:03:16.760Z"}
+{"level":"info","message":"Time: 17482","timestamp":"2017-05-15T07:03:17.761Z"}
+{"level":"info","message":"Time: 18483","timestamp":"2017-05-15T07:03:18.763Z"}
+{"level":"info","message":"Floor: 6","timestamp":"2017-05-15T07:03:19.764Z"}
+{"level":"info","message":"Time: 19485","timestamp":"2017-05-15T07:03:19.766Z"}
+{"level":"info","message":"Time: 20487","timestamp":"2017-05-15T07:03:20.766Z"}
+{"level":"info","message":"Time: 21488","timestamp":"2017-05-15T07:03:21.767Z"}
+{"level":"info","message":"Time: 22489","timestamp":"2017-05-15T07:03:22.768Z"}
+{"level":"info","message":"Floor: 7","timestamp":"2017-05-15T07:03:23.769Z"}
+{"level":"info","message":"User-9 left from lift.","timestamp":"2017-05-15T07:03:23.770Z"}
+{"level":"info","message":"User-10 left from lift.","timestamp":"2017-05-15T07:03:23.772Z"}
+{"level":"info","message":"Time: 23490","timestamp":"2017-05-15T07:03:23.775Z"}
+{"level":"info","message":"Time: 24497","timestamp":"2017-05-15T07:03:24.776Z"}
+{"level":"info","message":"Time: 25498","timestamp":"2017-05-15T07:03:25.777Z"}
+{"level":"info","message":"Time: 26499","timestamp":"2017-05-15T07:03:26.779Z"}
+{"level":"info","message":"Floor: 8","timestamp":"2017-05-15T07:03:27.780Z"}
+{"level":"info","message":"User-6 left from lift.","timestamp":"2017-05-15T07:03:27.781Z"}
+{"level":"info","message":"Time: 27501","timestamp":"2017-05-15T07:03:27.782Z"}
+{"level":"info","message":"Time: 28504","timestamp":"2017-05-15T07:03:28.784Z"}
+{"level":"info","message":"Time: 29506","timestamp":"2017-05-15T07:03:29.785Z"}
+{"level":"info","message":"Time: 30507","timestamp":"2017-05-15T07:03:30.787Z"}
+{"level":"info","message":"Floor: 9","timestamp":"2017-05-15T07:03:31.789Z"}
+{"level":"info","message":"User-14 left from lift.","timestamp":"2017-05-15T07:03:31.790Z"}
+{"level":"info","message":"Time: 31509","timestamp":"2017-05-15T07:03:31.790Z"}
+{"level":"info","message":"Time: 32512","timestamp":"2017-05-15T07:03:32.793Z"}
+{"level":"info","message":"Time: 33515","timestamp":"2017-05-15T07:03:33.795Z"}
+{"level":"info","message":"Time: 34517","timestamp":"2017-05-15T07:03:34.797Z"}
+{"level":"info","message":"Floor: 10","timestamp":"2017-05-15T07:03:35.798Z"}
+{"level":"info","message":"User-2 entered into lift. His direction: Down","timestamp":"2017-05-15T07:03:35.799Z"}
+{"level":"info","message":"Lift moves to 2 floor.","timestamp":"2017-05-15T07:03:35.800Z"}
+{"level":"info","message":"Time: 35518","timestamp":"2017-05-15T07:03:35.800Z"}
+{"level":"info","message":"Time: 36521","timestamp":"2017-05-15T07:03:36.801Z"}
+{"level":"info","message":"Time: 37523","timestamp":"2017-05-15T07:03:37.803Z"}
+{"level":"info","message":"Time: 38524","timestamp":"2017-05-15T07:03:38.804Z"}
+{"level":"info","message":"Floor: 9","timestamp":"2017-05-15T07:03:39.805Z"}
+{"level":"info","message":"User-13 entered into lift. His direction: Down","timestamp":"2017-05-15T07:03:39.806Z"}
+{"level":"info","message":"Time: 39525","timestamp":"2017-05-15T07:03:39.807Z"}
+{"level":"info","message":"Time: 40528","timestamp":"2017-05-15T07:03:40.808Z"}
+{"level":"info","message":"Time: 41529","timestamp":"2017-05-15T07:03:41.809Z"}
+{"level":"info","message":"Time: 42530","timestamp":"2017-05-15T07:03:42.810Z"}
+{"level":"info","message":"Floor: 8","timestamp":"2017-05-15T07:03:43.813Z"}
+{"level":"info","message":"User-5 entered into lift. His direction: Down","timestamp":"2017-05-15T07:03:43.816Z"}
+{"level":"info","message":"User-7 entered into lift. His direction: Down","timestamp":"2017-05-15T07:03:43.817Z"}
+{"level":"info","message":"User-12 entered into lift. His direction: Down","timestamp":"2017-05-15T07:03:43.817Z"}
+{"level":"info","message":"Time: 43532","timestamp":"2017-05-15T07:03:43.820Z"}
+{"level":"info","message":"Time: 44541","timestamp":"2017-05-15T07:03:44.822Z"}
+{"level":"info","message":"Time: 45543","timestamp":"2017-05-15T07:03:45.823Z"}
+{"level":"info","message":"Time: 46544","timestamp":"2017-05-15T07:03:46.823Z"}
+{"level":"info","message":"Floor: 7","timestamp":"2017-05-15T07:03:47.824Z"}
+{"level":"info","message":"User-11 entered into lift. His direction: Down","timestamp":"2017-05-15T07:03:47.828Z"}
+{"level":"info","message":"User-18 entered into lift. His direction: Down","timestamp":"2017-05-15T07:03:47.828Z"}
+{"level":"info","message":"User-20 entered into lift. His direction: Down","timestamp":"2017-05-15T07:03:47.829Z"}
+{"level":"info","message":"Time: 47544","timestamp":"2017-05-15T07:03:47.830Z"}
+{"level":"info","message":"Time: 48551","timestamp":"2017-05-15T07:03:48.830Z"}
+{"level":"info","message":"Time: 49551","timestamp":"2017-05-15T07:03:49.830Z"}
+{"level":"info","message":"Time: 50551","timestamp":"2017-05-15T07:03:50.830Z"}
+{"level":"info","message":"Floor: 6","timestamp":"2017-05-15T07:03:51.831Z"}
+{"level":"info","message":"User-2 left from lift.","timestamp":"2017-05-15T07:03:51.832Z"}
+{"level":"info","message":"User-17 entered into lift. His direction: Down","timestamp":"2017-05-15T07:03:51.832Z"}
+{"level":"info","message":"User-20 left from lift.","timestamp":"2017-05-15T07:03:51.833Z"}
+{"level":"info","message":"Time: 51551","timestamp":"2017-05-15T07:03:51.834Z"}
+{"level":"info","message":"Time: 52554","timestamp":"2017-05-15T07:03:52.834Z"}
+{"level":"info","message":"Time: 53555","timestamp":"2017-05-15T07:03:53.835Z"}
+{"level":"info","message":"Time: 54556","timestamp":"2017-05-15T07:03:54.836Z"}
+{"level":"info","message":"Floor: 5","timestamp":"2017-05-15T07:03:55.837Z"}
+{"level":"info","message":"User-16 entered into lift. His direction: Down","timestamp":"2017-05-15T07:03:55.838Z"}
+{"level":"info","message":"User-17 left from lift.","timestamp":"2017-05-15T07:03:55.839Z"}
+{"level":"info","message":"Time: 55557","timestamp":"2017-05-15T07:03:55.840Z"}
+{"level":"info","message":"Time: 56560","timestamp":"2017-05-15T07:03:56.840Z"}
+{"level":"info","message":"Time: 57561","timestamp":"2017-05-15T07:03:57.841Z"}
+{"level":"info","message":"Time: 58563","timestamp":"2017-05-15T07:03:58.844Z"}
+{"level":"info","message":"Floor: 4","timestamp":"2017-05-15T07:03:59.844Z"}
+{"level":"info","message":"User-3 entered into lift. His direction: Down","timestamp":"2017-05-15T07:03:59.845Z"}
+{"level":"info","message":"User-4 entered into lift. His direction: Down","timestamp":"2017-05-15T07:03:59.846Z"}
+{"level":"info","message":"Time: 59564","timestamp":"2017-05-15T07:03:59.847Z"}
+{"level":"info","message":"Time: 60568","timestamp":"2017-05-15T07:04:00.848Z"}
+{"level":"info","message":"Time: 61569","timestamp":"2017-05-15T07:04:01.850Z"}
+{"level":"info","message":"Time: 62572","timestamp":"2017-05-15T07:04:02.853Z"}
+{"level":"info","message":"Floor: 3","timestamp":"2017-05-15T07:04:03.854Z"}
+{"level":"info","message":"User-4 left from lift.","timestamp":"2017-05-15T07:04:03.855Z"}
+{"level":"info","message":"User-7 left from lift.","timestamp":"2017-05-15T07:04:03.856Z"}
+{"level":"info","message":"User-8 entered into lift. His direction: Down","timestamp":"2017-05-15T07:04:03.856Z"}
+{"level":"info","message":"User-12 left from lift.","timestamp":"2017-05-15T07:04:03.857Z"}
+{"level":"info","message":"User-13 left from lift.","timestamp":"2017-05-15T07:04:03.857Z"}
+{"level":"info","message":"User-16 left from lift.","timestamp":"2017-05-15T07:04:03.858Z"}
+{"level":"info","message":"User-18 left from lift.","timestamp":"2017-05-15T07:04:03.858Z"}
+{"level":"info","message":"Time: 63574","timestamp":"2017-05-15T07:04:03.859Z"}
+{"level":"info","message":"Time: 64579","timestamp":"2017-05-15T07:04:04.859Z"}
+{"level":"info","message":"Time: 65580","timestamp":"2017-05-15T07:04:05.860Z"}
+{"level":"info","message":"Time: 66581","timestamp":"2017-05-15T07:04:06.861Z"}
+{"level":"info","message":"Floor: 2","timestamp":"2017-05-15T07:04:07.862Z"}
+{"level":"info","message":"User-3 left from lift.","timestamp":"2017-05-15T07:04:07.863Z"}
+{"level":"info","message":"User-5 left from lift.","timestamp":"2017-05-15T07:04:07.864Z"}
+{"level":"info","message":"User-8 left from lift.","timestamp":"2017-05-15T07:04:07.864Z"}
+{"level":"info","message":"User-11 left from lift.","timestamp":"2017-05-15T07:04:07.865Z"}
+{"level":"info","message":"This is the end of path!","timestamp":"2017-05-15T07:04:07.865Z"}
+{"level":"info","message":"Success! All tasks is done.","timestamp":"2017-05-15T07:04:07.868Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.269Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.275Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.276Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.276Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.276Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.276Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.276Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.276Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.276Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.276Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.276Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.277Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.277Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.277Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.277Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.277Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.277Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.277Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.277Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:08:48.277Z"}
+{"level":"info","message":"Start point: 1","timestamp":"2017-05-15T07:08:48.286Z"}
+{"level":"info","message":"The highest point: 10","timestamp":"2017-05-15T07:08:48.288Z"}
+{"level":"info","message":"End point: 2","timestamp":"2017-05-15T07:08:48.289Z"}
+{"level":"info","message":"User-10 entered into lift. His direction: Up","timestamp":"2017-05-15T07:08:48.291Z"}
+{"level":"info","message":"User-14 entered into lift. His direction: Up","timestamp":"2017-05-15T07:08:48.291Z"}
+{"level":"info","message":"User-15 entered into lift. His direction: Up","timestamp":"2017-05-15T07:08:48.292Z"}
+{"level":"info","message":"Lift moves to 10 floor.","timestamp":"2017-05-15T07:08:48.293Z"}
+{"level":"info","message":"Floor: 1","timestamp":"2017-05-15T07:08:48.293Z"}
+{"level":"info","message":"Time: 450","timestamp":"2017-05-15T07:08:49.296Z"}
+{"level":"info","message":"Time: 1453","timestamp":"2017-05-15T07:08:50.298Z"}
+{"level":"info","message":"Time: 2454","timestamp":"2017-05-15T07:08:51.298Z"}
+{"level":"info","message":"Floor: 2","timestamp":"2017-05-15T07:08:52.300Z"}
+{"level":"info","message":"User-1 entered into lift. His direction: Up","timestamp":"2017-05-15T07:08:52.300Z"}
+{"level":"info","message":"User-15 left from lift.","timestamp":"2017-05-15T07:08:52.301Z"}
+{"level":"info","message":"User-19 entered into lift. His direction: Up","timestamp":"2017-05-15T07:08:52.302Z"}
+{"level":"info","message":"Time: 3455","timestamp":"2017-05-15T07:08:52.303Z"}
+{"level":"info","message":"Time: 4459","timestamp":"2017-05-15T07:08:53.303Z"}
+{"level":"info","message":"Time: 5460","timestamp":"2017-05-15T07:08:54.304Z"}
+{"level":"info","message":"Time: 6461","timestamp":"2017-05-15T07:08:55.305Z"}
+{"level":"info","message":"Floor: 3","timestamp":"2017-05-15T07:08:56.306Z"}
+{"level":"info","message":"User-6 entered into lift. His direction: Up","timestamp":"2017-05-15T07:08:56.307Z"}
+{"level":"info","message":"User-9 entered into lift. His direction: Up","timestamp":"2017-05-15T07:08:56.308Z"}
+{"level":"info","message":"Time: 7462","timestamp":"2017-05-15T07:08:56.309Z"}
+{"level":"info","message":"Time: 8465","timestamp":"2017-05-15T07:08:57.309Z"}
+{"level":"info","message":"Time: 9466","timestamp":"2017-05-15T07:08:58.311Z"}
+{"level":"info","message":"Time: 10467","timestamp":"2017-05-15T07:08:59.311Z"}
+{"level":"info","message":"Floor: 4","timestamp":"2017-05-15T07:09:00.312Z"}
+{"level":"info","message":"User-19 left from lift.","timestamp":"2017-05-15T07:09:00.313Z"}
+{"level":"info","message":"Time: 11468","timestamp":"2017-05-15T07:09:00.314Z"}
+{"level":"info","message":"Time: 12470","timestamp":"2017-05-15T07:09:01.314Z"}
+{"level":"info","message":"Time: 13471","timestamp":"2017-05-15T07:09:02.315Z"}
+{"level":"info","message":"Time: 14472","timestamp":"2017-05-15T07:09:03.316Z"}
+{"level":"info","message":"Floor: 5","timestamp":"2017-05-15T07:09:04.317Z"}
+{"level":"info","message":"User-1 left from lift.","timestamp":"2017-05-15T07:09:04.318Z"}
+{"level":"info","message":"Time: 15473","timestamp":"2017-05-15T07:09:04.318Z"}
+{"level":"info","message":"Time: 16475","timestamp":"2017-05-15T07:09:05.321Z"}
+{"level":"info","message":"Time: 17476","timestamp":"2017-05-15T07:09:06.321Z"}
+{"level":"info","message":"Time: 18477","timestamp":"2017-05-15T07:09:07.323Z"}
+{"level":"info","message":"Floor: 6","timestamp":"2017-05-15T07:09:08.325Z"}
+{"level":"info","message":"Time: 19479","timestamp":"2017-05-15T07:09:08.325Z"}
+{"level":"info","message":"Time: 20481","timestamp":"2017-05-15T07:09:09.327Z"}
+{"level":"info","message":"Time: 21482","timestamp":"2017-05-15T07:09:10.327Z"}
+{"level":"info","message":"Time: 22483","timestamp":"2017-05-15T07:09:11.329Z"}
+{"level":"info","message":"Floor: 7","timestamp":"2017-05-15T07:09:12.329Z"}
+{"level":"info","message":"User-9 left from lift.","timestamp":"2017-05-15T07:09:12.331Z"}
+{"level":"info","message":"User-10 left from lift.","timestamp":"2017-05-15T07:09:12.332Z"}
+{"level":"info","message":"Time: 23484","timestamp":"2017-05-15T07:09:12.336Z"}
+{"level":"info","message":"Time: 24492","timestamp":"2017-05-15T07:09:13.338Z"}
+{"level":"info","message":"Time: 25494","timestamp":"2017-05-15T07:09:14.341Z"}
+{"level":"info","message":"Time: 26497","timestamp":"2017-05-15T07:09:15.344Z"}
+{"level":"info","message":"Floor: 8","timestamp":"2017-05-15T07:09:16.344Z"}
+{"level":"info","message":"User-6 left from lift.","timestamp":"2017-05-15T07:09:16.345Z"}
+{"level":"info","message":"Time: 27499","timestamp":"2017-05-15T07:09:16.346Z"}
+{"level":"info","message":"Time: 28501","timestamp":"2017-05-15T07:09:17.347Z"}
+{"level":"info","message":"Time: 29503","timestamp":"2017-05-15T07:09:18.348Z"}
+{"level":"info","message":"Time: 30504","timestamp":"2017-05-15T07:09:19.350Z"}
+{"level":"info","message":"Floor: 9","timestamp":"2017-05-15T07:09:20.352Z"}
+{"level":"info","message":"User-14 left from lift.","timestamp":"2017-05-15T07:09:20.353Z"}
+{"level":"info","message":"Time: 31506","timestamp":"2017-05-15T07:09:20.353Z"}
+{"level":"info","message":"Time: 32509","timestamp":"2017-05-15T07:09:21.355Z"}
+{"level":"info","message":"Time: 33511","timestamp":"2017-05-15T07:09:22.356Z"}
+{"level":"info","message":"Time: 34512","timestamp":"2017-05-15T07:09:23.358Z"}
+{"level":"info","message":"Floor: 10","timestamp":"2017-05-15T07:09:24.359Z"}
+{"level":"info","message":"User-2 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:24.360Z"}
+{"level":"info","message":"Lift moves to 2 floor.","timestamp":"2017-05-15T07:09:24.361Z"}
+{"level":"info","message":"Time: 35513","timestamp":"2017-05-15T07:09:24.361Z"}
+{"level":"info","message":"Time: 36516","timestamp":"2017-05-15T07:09:25.362Z"}
+{"level":"info","message":"Time: 37518","timestamp":"2017-05-15T07:09:26.364Z"}
+{"level":"info","message":"Time: 38519","timestamp":"2017-05-15T07:09:27.365Z"}
+{"level":"info","message":"Floor: 9","timestamp":"2017-05-15T07:09:28.366Z"}
+{"level":"info","message":"User-13 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:28.367Z"}
+{"level":"info","message":"Time: 39520","timestamp":"2017-05-15T07:09:28.368Z"}
+{"level":"info","message":"Time: 40523","timestamp":"2017-05-15T07:09:29.369Z"}
+{"level":"info","message":"Time: 41524","timestamp":"2017-05-15T07:09:30.370Z"}
+{"level":"info","message":"Time: 42525","timestamp":"2017-05-15T07:09:31.372Z"}
+{"level":"info","message":"Floor: 8","timestamp":"2017-05-15T07:09:32.374Z"}
+{"level":"info","message":"User-5 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:32.374Z"}
+{"level":"info","message":"User-7 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:32.375Z"}
+{"level":"info","message":"User-12 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:32.376Z"}
+{"level":"info","message":"Time: 43527","timestamp":"2017-05-15T07:09:32.378Z"}
+{"level":"info","message":"Time: 44533","timestamp":"2017-05-15T07:09:33.380Z"}
+{"level":"info","message":"Time: 45535","timestamp":"2017-05-15T07:09:34.382Z"}
+{"level":"info","message":"Time: 46537","timestamp":"2017-05-15T07:09:35.383Z"}
+{"level":"info","message":"Floor: 7","timestamp":"2017-05-15T07:09:36.383Z"}
+{"level":"info","message":"User-11 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:36.386Z"}
+{"level":"info","message":"User-18 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:36.387Z"}
+{"level":"info","message":"User-20 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:36.388Z"}
+{"level":"info","message":"Time: 47538","timestamp":"2017-05-15T07:09:36.389Z"}
+{"level":"info","message":"Time: 48544","timestamp":"2017-05-15T07:09:37.390Z"}
+{"level":"info","message":"Time: 49545","timestamp":"2017-05-15T07:09:38.391Z"}
+{"level":"info","message":"Time: 50546","timestamp":"2017-05-15T07:09:39.391Z"}
+{"level":"info","message":"Floor: 6","timestamp":"2017-05-15T07:09:40.393Z"}
+{"level":"info","message":"User-2 left from lift.","timestamp":"2017-05-15T07:09:40.394Z"}
+{"level":"info","message":"User-17 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:40.395Z"}
+{"level":"info","message":"User-20 left from lift.","timestamp":"2017-05-15T07:09:40.395Z"}
+{"level":"info","message":"Time: 51547","timestamp":"2017-05-15T07:09:40.396Z"}
+{"level":"info","message":"Time: 52550","timestamp":"2017-05-15T07:09:41.396Z"}
+{"level":"info","message":"Time: 53550","timestamp":"2017-05-15T07:09:42.396Z"}
+{"level":"info","message":"Time: 54551","timestamp":"2017-05-15T07:09:43.397Z"}
+{"level":"info","message":"Floor: 5","timestamp":"2017-05-15T07:09:44.398Z"}
+{"level":"info","message":"User-16 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:44.399Z"}
+{"level":"info","message":"User-17 left from lift.","timestamp":"2017-05-15T07:09:44.400Z"}
+{"level":"info","message":"Time: 55552","timestamp":"2017-05-15T07:09:44.401Z"}
+{"level":"info","message":"Time: 56555","timestamp":"2017-05-15T07:09:45.402Z"}
+{"level":"info","message":"Time: 57556","timestamp":"2017-05-15T07:09:46.402Z"}
+{"level":"info","message":"Time: 58557","timestamp":"2017-05-15T07:09:47.403Z"}
+{"level":"info","message":"Floor: 4","timestamp":"2017-05-15T07:09:48.405Z"}
+{"level":"info","message":"User-3 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:48.406Z"}
+{"level":"info","message":"User-4 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:48.407Z"}
+{"level":"info","message":"Time: 59558","timestamp":"2017-05-15T07:09:48.407Z"}
+{"level":"info","message":"Time: 60560","timestamp":"2017-05-15T07:09:49.407Z"}
+{"level":"info","message":"Time: 61561","timestamp":"2017-05-15T07:09:50.410Z"}
+{"level":"info","message":"Time: 62564","timestamp":"2017-05-15T07:09:51.412Z"}
+{"level":"info","message":"Floor: 3","timestamp":"2017-05-15T07:09:52.412Z"}
+{"level":"info","message":"User-4 left from lift.","timestamp":"2017-05-15T07:09:52.413Z"}
+{"level":"info","message":"User-7 left from lift.","timestamp":"2017-05-15T07:09:52.414Z"}
+{"level":"info","message":"User-8 entered into lift. His direction: Down","timestamp":"2017-05-15T07:09:52.414Z"}
+{"level":"info","message":"User-12 left from lift.","timestamp":"2017-05-15T07:09:52.415Z"}
+{"level":"info","message":"User-13 left from lift.","timestamp":"2017-05-15T07:09:52.416Z"}
+{"level":"info","message":"User-16 left from lift.","timestamp":"2017-05-15T07:09:52.416Z"}
+{"level":"info","message":"User-18 left from lift.","timestamp":"2017-05-15T07:09:52.417Z"}
+{"level":"info","message":"Time: 63565","timestamp":"2017-05-15T07:09:52.418Z"}
+{"level":"info","message":"Time: 64571","timestamp":"2017-05-15T07:09:53.418Z"}
+{"level":"info","message":"Time: 65572","timestamp":"2017-05-15T07:09:54.419Z"}
+{"level":"info","message":"Time: 66573","timestamp":"2017-05-15T07:09:55.420Z"}
+{"level":"info","message":"Floor: 2","timestamp":"2017-05-15T07:09:56.421Z"}
+{"level":"info","message":"User-3 left from lift.","timestamp":"2017-05-15T07:09:56.422Z"}
+{"level":"info","message":"User-5 left from lift.","timestamp":"2017-05-15T07:09:56.423Z"}
+{"level":"info","message":"User-8 left from lift.","timestamp":"2017-05-15T07:09:56.423Z"}
+{"level":"info","message":"User-11 left from lift.","timestamp":"2017-05-15T07:09:56.424Z"}
+{"level":"info","message":"This is the end of path!","timestamp":"2017-05-15T07:09:56.424Z"}
+{"level":"info","message":"Success! All tasks are done.","timestamp":"2017-05-15T07:09:56.427Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.470Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.477Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.477Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.477Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.477Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.478Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.478Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.478Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.478Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.478Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.478Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.478Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.478Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.478Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.478Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.478Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.479Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.479Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.479Z"}
+{"level":"debug","message":"Added user to task list","timestamp":"2017-05-15T07:10:44.479Z"}
+{"level":"info","message":"Start point: 1","timestamp":"2017-05-15T07:10:44.487Z"}
+{"level":"info","message":"The highest point: 10","timestamp":"2017-05-15T07:10:44.489Z"}
+{"level":"info","message":"End point: 2","timestamp":"2017-05-15T07:10:44.490Z"}
+{"level":"info","message":"User-10 entered into lift. His direction: Up","timestamp":"2017-05-15T07:10:44.491Z"}
+{"level":"info","message":"User-14 entered into lift. His direction: Up","timestamp":"2017-05-15T07:10:44.492Z"}
+{"level":"info","message":"User-15 entered into lift. His direction: Up","timestamp":"2017-05-15T07:10:44.493Z"}
+{"level":"info","message":"Lift moves to 10 floor.","timestamp":"2017-05-15T07:10:44.494Z"}
+{"level":"info","message":"Floor: 1","timestamp":"2017-05-15T07:10:44.494Z"}
+{"level":"info","message":"Time: 456","timestamp":"2017-05-15T07:10:45.497Z"}
+{"level":"info","message":"Time: 1458","timestamp":"2017-05-15T07:10:46.498Z"}
+{"level":"info","message":"Time: 2459","timestamp":"2017-05-15T07:10:47.498Z"}
+{"level":"info","message":"Floor: 2","timestamp":"2017-05-15T07:10:48.500Z"}
+{"level":"info","message":"User-1 entered into lift. His direction: Up","timestamp":"2017-05-15T07:10:48.501Z"}
+{"level":"info","message":"User-15 left from lift.","timestamp":"2017-05-15T07:10:48.502Z"}
+{"level":"info","message":"User-19 entered into lift. His direction: Up","timestamp":"2017-05-15T07:10:48.502Z"}
+{"level":"info","message":"Time: 3460","timestamp":"2017-05-15T07:10:48.503Z"}
+{"level":"info","message":"Time: 4464","timestamp":"2017-05-15T07:10:49.503Z"}
+{"level":"info","message":"Time: 5465","timestamp":"2017-05-15T07:10:50.504Z"}
+{"level":"info","message":"Time: 6466","timestamp":"2017-05-15T07:10:51.505Z"}
+{"level":"info","message":"Floor: 3","timestamp":"2017-05-15T07:10:52.506Z"}
+{"level":"info","message":"User-6 entered into lift. His direction: Up","timestamp":"2017-05-15T07:10:52.507Z"}
+{"level":"info","message":"User-9 entered into lift. His direction: Up","timestamp":"2017-05-15T07:10:52.509Z"}
+{"level":"info","message":"Time: 7467","timestamp":"2017-05-15T07:10:52.510Z"}
+{"level":"info","message":"Time: 8471","timestamp":"2017-05-15T07:10:53.510Z"}
+{"level":"info","message":"Time: 9472","timestamp":"2017-05-15T07:10:54.511Z"}
+{"level":"info","message":"Time: 10473","timestamp":"2017-05-15T07:10:55.512Z"}

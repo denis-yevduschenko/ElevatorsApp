@@ -1,6 +1,6 @@
 describe("Lift", function() {
-    var User = require('../../entity/user');
-    var Lift = require('../../entity/lift');
+    var User = require('../../entity/base/user');
+    var Lift = require('../../entity/base/BaseLift');
     var user;
     var lift;
 
